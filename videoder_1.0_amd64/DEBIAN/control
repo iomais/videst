@@ -1,9 +1,0 @@
-Package: videoder
-Version: 1.0
-Section: utils
-Priority: optional
-Architecture: amd64
-Maintainer: Islam Omar
-Depends: yt-dlp
-Description: CLI Media Downloader using yt-dlp with progress bar
- A powerful interactive and CLI downloader built in C++.
