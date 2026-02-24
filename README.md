@@ -17,7 +17,7 @@ Terminal: videoder URL
 
 ## 📥 Usage
 To download a video:
-videoder <URL>
+videoder [URL]
 
 Example:
 videoder https://www.youtube.com/watch?v=example
